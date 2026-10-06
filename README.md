@@ -218,4 +218,3 @@ Os comandos `make test` e `make caso` copiam os arquivos .dat do caso para a pas
 - O cliente retornado deve ser uma cópia criada com a função cliente, pois o nó lido do arquivo é liberado com libera\_no ao final da busca
 - Leia cada nó do arquivo uma única vez: se o mesmo nó for lido duas vezes, a quantidade de nós lidos vai ficar diferente da esperada
 - Na saída, o cliente aparece precedido de um caractere de tabulação, pois é assim que a função imprime\_cliente o imprime
-- Veja outras dicas em http://www.ic.uff.br/~vanessa/courses/runcodes.html
